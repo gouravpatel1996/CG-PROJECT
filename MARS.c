@@ -441,8 +441,9 @@ void frontpage()
 	drawstring(60,470,"WELCOME TO EAST WEST INSTITUTE OF TECHNOLOGY");
 	drawstring(70,425,"COMPUTER GRAPHICS PROJECT : MARS MISSION");
 	drawstring(240,380,"TEAM MATES");
-	drawstring(320,320,"NISCHAL");
-	drawstring(60,320,"GOURAV");
+	drawstring(320,320,"PAVAN");
+	drawstring(190,320,"NISCHAL");
+	drawstring(50,320,"GOURAV");
 	drawstring(130,180,"PRESS C TO CONTINUE AND Q TO QUIT");
 }
 
